@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/9p0pcJs/4164726.jpg",
+      "title": "The Mystery of the Hidden Gem",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/wcmZJQZ/boy2.jpg",
+      "posted_date": "2023-09-13",
+      "reading_times": 45,
+      "hashtags": ["mystery", "adventure", "puzzles"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/99v5DkV/7498056.jpg",
+      "title": "A Journey to the Unknown",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/wcmZJQZ/boy2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_times": 32,
+      "hashtags": ["exploration", "fantasy", "discovery"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/cthL9DV/7676073.jpg",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Emily Davis",
+      "author_img": "https://i.ibb.co/wcmZJQZ/boy2.jpg",
+      "posted_date": "2023-09-11",
+      "reading_times": 28,
+      "hashtags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/HKy0xDF/8201720.jpg",
+      "title": "Space Odyssey: Beyond the Stars",
+      "author": "Michael Roberts",
+      "author_img": "https://i.ibb.co/wcmZJQZ/boy2.jpg",
+      "posted_date": "2023-09-10",
+      "reading_times": 55,
+      "hashtags": ["space", "science fiction", "exploration"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/G5sWtbm/8975463.jpg",
+      "title": "Cooking Adventures: Flavors of the World",
+      "author": "Sophie Anderson",
+      "author_img": "https://i.ibb.co/wcmZJQZ/boy2.jpg",
+      "posted_date": "2023-09-09",
+      "reading_times": 20,
+      "hashtags": ["cooking", "recipes", "food"]
+    }
+  ]
+  
